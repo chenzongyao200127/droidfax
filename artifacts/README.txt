@@ -97,7 +97,20 @@ The output of this script indicates what each final result is and where it is lo
 
 The following table provides a mapping between the generated results and figure/table used in the research paper.
 Under testbed/results												In the research paper
------------------------------------------------------------------------------------------------generalReport/gdist-inds-d-horiz.pdf								Figure 2generalReport/edgeFreq-scatter.pdf									Figure 3Cross-layer total call distribution table on screen					Figure 4securityReport/callback-dins-horiz.pdf								Figure 5Lifecycle callback categorization ranking table on screen 			Table IEvent-handler callback categorization ranking table on screen		Table IIgeneralReport/compdist-ins-d-horiz.pdf								Figure 6ICCReport/gicc-iccboth.pdf											Figure 7ICCReport/gicc-databoth.pdf											Figure 8securityReport/srcsink-dins-horiz.pdf								Figure 9Source categorization ranking table on screen						Table IIISink categorization ranking table on screen							Table IV
+-----------------------------------------------------------------------------------------------
+generalReport/gdist-inds-d-horiz.pdf								Figure 2
+generalReport/edgeFreq-scatter.pdf									Figure 3
+Cross-layer total call distribution table on screen					Figure 4
+securityReport/callback-dins-horiz.pdf								Figure 5
+Lifecycle callback categorization ranking table on screen 			Table I
+Event-handler callback categorization ranking table on screen		Table II
+generalReport/compdist-ins-d-horiz.pdf								Figure 6
+ICCReport/gicc-iccboth.pdf											Figure 7
+ICCReport/gicc-databoth.pdf											Figure 8
+securityReport/srcsink-dins-horiz.pdf								Figure 9
+Source categorization ranking table on screen						Table III
+Sink categorization ranking table on screen							Table IV
+
 There are additional raw data in the folders, and additional figures may be generated out there. Those are results not reported in our paper, but are what our study toolkit can produce to be used in extended/future studies.
 
 
